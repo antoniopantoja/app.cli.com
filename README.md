@@ -1,4 +1,6 @@
-<h1>✨ app.cli.com</h1>
+![ic_launcher](https://github.com/user-attachments/assets/aefed086-4fec-4ba0-a549-262c9a67ade2)
+
+<h1>app.cli.com</h1>
 
 <h2>📌 Tecnologia</h2>
 <p>Aplicativo desenvolvido em <strong>React Native</strong>, permitindo a criação de apps nativos para <strong>iOS e Android</strong> com uma única base de código.</p>
