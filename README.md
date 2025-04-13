@@ -33,8 +33,6 @@
 <p>📩 Para acesso: <strong>antoniopantojasr@gmail.com</strong></p>
 
 <h2>📸 Preview</h2>
-<img src="https://github.com/user-attachments/assets/41b295a3-9c85-45e3-9c2d-2c4ff4a57479" alt="📱 Preview" width="1000">
+<img src="https://github.com/user-attachments/assets/faf91793-dfee-4f40-97a9-bf5f9d1b63ff" alt="📱 Preview" width="1000">
 
 
-<h3>🌙 Modo Noturno</h3>
-<img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/voucherBusiness/app.cli.com%20Noturna.gif" alt="🌙 Nocturnal Preview" width="200">
